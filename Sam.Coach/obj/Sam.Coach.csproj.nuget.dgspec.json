@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/guozirong/Downloads/Candidate Tech Test 1/Sam.Coach/Sam.Coach.csproj": {}
+  },
+  "projects": {
+    "/Users/guozirong/Downloads/Candidate Tech Test 1/Sam.Coach/Sam.Coach.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/guozirong/Downloads/Candidate Tech Test 1/Sam.Coach/Sam.Coach.csproj",
+        "projectName": "Sam.Coach",
+        "projectPath": "/Users/guozirong/Downloads/Candidate Tech Test 1/Sam.Coach/Sam.Coach.csproj",
+        "packagesPath": "/Users/guozirong/.nuget/packages/",
+        "outputPath": "/Users/guozirong/Downloads/Candidate Tech Test 1/Sam.Coach/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/guozirong/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

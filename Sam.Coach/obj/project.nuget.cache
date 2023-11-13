@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pD4+MfTDL8z1jIa6UdbM0UyuDcMKCcIFGiHqgksNbsgRFhFOzk2PQhGNIEwdglxEMBjx84bK01/8HBMT9E4eHw==",
+  "success": true,
+  "projectFilePath": "/Users/guozirong/Downloads/Candidate Tech Test 1/Sam.Coach/Sam.Coach.csproj",
+  "expectedPackageFiles": [
+    "/Users/guozirong/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.5/microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "/Users/guozirong/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.5/microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
