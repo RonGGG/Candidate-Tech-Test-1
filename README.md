@@ -9,6 +9,7 @@ This project implements a Longest Rising Sequence Finder that can identify the l
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
+    - [Unit Tests](#unit-tests)
 
 ## Overview
 
@@ -23,6 +24,9 @@ The Longest Rising Sequence Finder is designed to find the longest ascending seq
 ### Installation
 
 1. Clone the repository:
-
    ```bash
-   git clone https://github.com/yourusername/longest-rising-sequence-finder.git
+   git clone https://github.com/RonGGG/
+### Unit Tests
+Unit tests are included to ensure the correct functionality of the Longest Rising Sequence Finder. To run the tests, use the following command:
+    
+    dotnet test
