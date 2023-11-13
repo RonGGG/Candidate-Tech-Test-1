@@ -25,7 +25,7 @@ The Longest Rising Sequence Finder is designed to find the longest ascending seq
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RonGGG/
+   git clone https://github.com/RonGGG/Candidate-Tech-Test-1
 ### Unit Tests
 Unit tests are included to ensure the correct functionality of the Longest Rising Sequence Finder. To run the tests, use the following command:
     
